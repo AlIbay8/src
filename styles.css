@@ -3,5 +3,10 @@ body {
 }
 
 pre {
+    color: black;
     font-family: Bungee;
+}
+
+p {
+    color: white;
 }
